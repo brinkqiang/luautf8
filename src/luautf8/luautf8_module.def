@@ -1,0 +1,3 @@
+EXPORTS 
+    luaopen_luautf8
+    require_luautf8
